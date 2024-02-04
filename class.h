@@ -1,4 +1,4 @@
-// class.h patch-aum v1
+// class.h patch-aum v1.1
 
 #ifndef CLASS_H
 #define CLASS_H
